@@ -1,0 +1,14 @@
+tiktoken
+pdfplumber
+streamlit
+flashrank
+langchain
+langchain_community
+fastapi
+uvicorn
+rank_bm25
+sentence-transformers
+faiss-cpu
+langchain-openai
+langgraph
+pip install pygraphviz

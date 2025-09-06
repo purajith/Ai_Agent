@@ -1,0 +1,8 @@
+langchain_core
+langgraph
+langchain_community
+flashrank
+langchain-openai
+streamlit
+uvicorn
+fastapi
